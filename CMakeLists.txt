@@ -44,6 +44,7 @@ OrientationConstraint.msg
 OrientedBoundingBox.msg
 PlannerInterfaceDescription.msg
 PlanningScene.msg
+PlanningSceneComponents.msg
 PlanningSceneWorld.msg
 PlanningOptions.msg
 PositionConstraint.msg
@@ -56,11 +57,11 @@ PositionIKRequest.msg
 )
 
 set(SRV_FILES
-ConstructConstraintApproximation.srv
 GetMotionPlan.srv
 ExecuteKnownTrajectory.srv
 GetStateValidity.srv
 GetCartesianPath.srv
+GetPlanningScene.srv
 QueryPlannerInterfaces.srv
 GetConstraintAwarePositionIK.srv
 GetKinematicSolverInfo.srv
