@@ -2,6 +2,11 @@
 Changelog for package moveit_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.4 (2014-03-10)
+------------------
+* update e-mail addresses
+* Contributors: Ioan Sucan
+
 0.5.3 (2013-12-03)
 ------------------
 * Added some verbose explanatory comments to Grasp message.
