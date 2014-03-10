@@ -1,3 +1,22 @@
+## moveit_msgs (indigo) - 0.5.4-2
+
+User `isucan@isucan-glaptop0` released the packages in the `moveit_msgs` repository into the `indigo` distro by running `/usr/bin/bloom-release -t indigo -r indigo moveit_msgs` on `Mon, 10 Mar 2014 16:01:23 -0000`
+
+The `moveit_msgs` package was released.
+
+Version of package(s) in repository `moveit_msgs`:
+- rosdistro version: `0.5.3-0`
+- old version: `0.5.4-1`
+- new version: `0.5.4-2`
+
+Versions of tools used:
+- bloom version: `0.5.1`
+- catkin_pkg version: `0.1.26`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.33`
+
+
 ## moveit_msgs (indigo) - 0.5.4-1
 
 User `isucan@isucan-glaptop0` released the packages in the `moveit_msgs` repository into the `indigo` distro by running `/usr/bin/bloom-release -t indigo -r indigo moveit_msgs` on `Mon, 10 Mar 2014 16:00:15 -0000`
